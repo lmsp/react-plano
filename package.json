@@ -1,7 +1,7 @@
 {
   "name": "react-plano",
   "author": "Luis Miguel Santamaría Pérez",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Libraría para crear ventanas gráficas",
   "main": "dist/react-plano.js",
   "license": "MIT",
